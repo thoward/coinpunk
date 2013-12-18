@@ -5,3 +5,8 @@ public/config.json
 coinpunk.key
 coinpunk.csr
 coinpunk.crt
+.vagrant/
+Cheffile.lock
+Gemfile.lock
+tmp/
+cookbooks/
